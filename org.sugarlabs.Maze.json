@@ -26,7 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/maze-activity.git",
-                    "commit": "01fadbac72c003708a0a36d4eefacc5c5124ffbe"
+                    "tag": "v30",
+                    "commit": "864b3e46b48d5ec308eeab2f593694fed8adeb5f"
                 },
                 {
                     "type": "patch",
