@@ -5,7 +5,7 @@ index 9d0cf8b..b58a1c4 100644
 @@ -3,9 +3,16 @@ name = Maze
  exec = sugar-activity3 activity.MazeActivity
  icon = activity-maze
- activity_version = 31
+ activity_version = 32
 +release_date = 2020-02-19
  license = GPLv3+
 -bundle_id = vu.lux.olpc.Maze
