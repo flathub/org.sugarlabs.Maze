@@ -2,7 +2,7 @@ diff --git a/activity/activity.info b/activity/activity.info
 index 9d0cf8b..b58a1c4 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
-@@ -3,9 +3,16 @@ name = Maze
+@@ -3,9 +3,17 @@ name = Maze
  exec = sugar-activity3 activity.MazeActivity
  icon = activity-maze
  activity_version = 32
@@ -22,3 +22,4 @@ index 9d0cf8b..b58a1c4 100644
 +description = Good at finding your way out of hard situations? Let's see! Try to make your way through an increasingly difficult path.
 +screenshots = https://i.imgur.com/imoTbzP.png https://i.imgur.com/GO11pbh.png https://i.imgur.com/RH1koq6.png
 +developer_name = Sugar Labs Community
++developer_id = org.sugarlabs
