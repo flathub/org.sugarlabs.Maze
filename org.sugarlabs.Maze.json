@@ -1,9 +1,9 @@
 {
     "app-id": "org.sugarlabs.Maze",
     "base": "org.sugarlabs.BaseApp",
-    "base-version": "23.06",
+    "base-version": "24.04",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "44",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "sugarapp",
@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/maze-activity.git",
-                    "tag": "v31",
-                    "commit": "9618e80d14165adb9f26cb73d29498ae56132062",
+                    "tag": "v32",
+                    "commit": "b06287bc8cc9c4c98913679bc144baa6d20c5563",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
